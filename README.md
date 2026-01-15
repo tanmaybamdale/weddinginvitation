@@ -30,8 +30,10 @@ Google Fonts (Great Vibes, Cinzel, Lato)
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/wedding-invite.git](https://github.com/yourusername/wedding-invite.git)
+git clone [https://github.com/tanmaybamdale/weddinginvitation.git]
 
+#PREVIEW LINK :- 
+( https://tanmaybamdale.github.io/weddinginvitation/ )
 
 Open the file:
 Simply double-click wedding_invite.html to open it in any modern browser (Chrome, Firefox, Safari). No server is required!
@@ -44,11 +46,11 @@ To personalize this invitation for your own wedding, open wedding_invite.html in
 
 Look for the text content within the HTML tags.
 
-Bride & Groom: Search for "Aarav Patil" or "Ananya Deshmukh".
+Bride & Groom: Search for "prajot bamdale " or "vaishnavi survase".
 
-Dates: Search for "Dec 14, 2025".
+Dates: Search for "JAN 25 , 2026".
 
-Venue: Search for "Grand Hyatt Pune".
+Venue: Search for "Beed".
 
 2. Changing Images
 
